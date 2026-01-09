@@ -26,3 +26,21 @@ Student Name
 
 Added project README
 
+LibrarySystem/
+│
+├── index.html
+│
+├── README.md
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── js/
+│   │   └── script.js
+│   │
+│   └── images/
+│
+├── database/
+│   └── project_database.sql
+
