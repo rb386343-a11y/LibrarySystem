@@ -19,10 +19,9 @@ A web-based system for registering members in an institutional library.
 
 ## Author
 Student Name
+Added project README
 ## Screenshots
 
 ![Registration Form](assets/images/form.png)
 ![Validation Error](assets/images/error.png)
 ![Success Message](assets/images/success.png)
-Course / Subject Name  
-Institution Name
