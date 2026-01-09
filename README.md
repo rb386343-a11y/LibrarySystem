@@ -55,6 +55,8 @@ The project demonstrates the use of HTML, CSS, JavaScript, and MySQL following p
 
 ## Author
 Your Name  
+Course/Subject Name
+institution Name
 ## Screenshots
 
 ![Registration Form](assets/images/form.png)
