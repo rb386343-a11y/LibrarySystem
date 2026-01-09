@@ -1,33 +1,5 @@
 # Library Membership Registration System
 
-## Description
-A web-based system for registering members in an institutional library.
-
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- MySQL (XAMPP)
-
-## Features
-- Multi-section registration form
-- Client-side validation
-- Responsive desktop-first design
-
-## Screenshots
-(Add screenshots here)
-
-## Author
-Student Name
-
-Added project README
-## Screenshots
-
-![Registration Form](assets/images/form.png)
-![Validation Error](assets/images/error.png)
-![Success Message](assets/images/success.png)
-# Library Membership Registration System
-
 ## Project Description
 The Library Membership Registration System is a web-based application designed for an institutional library.  
 It allows users to register as library members by filling out a multi-section form that collects personal, contact, account, and additional information.
@@ -83,5 +55,10 @@ The project demonstrates the use of HTML, CSS, JavaScript, and MySQL following p
 
 ## Author
 Your Name  
+## Screenshots
+
+![Registration Form](assets/images/form.png)
+![Validation Error](assets/images/error.png)
+![Success Message](assets/images/success.png)
 Course / Subject Name  
 Institution Name
